@@ -3,10 +3,10 @@
 .App{
     min-height: 100vh;
     display: flex;
-    /* background-image: url('./background-image2.jpeg'); */
-    background:linear-gradient(90deg in hsl shorter hue,
+    background-image: url('./background-image3.jpeg');
+    /* background:linear-gradient(90deg in hsl shorter hue,
         red,
-        blue);
+        blue); */
     background-size: cover;
     background-position: center;
     color: black;
